@@ -1,0 +1,10 @@
+D:\Projects\EFBasicTutorials\CodeFirstApp\CodeFirstApp\bin\Debug\CodeFirstApp.exe.config
+D:\Projects\EFBasicTutorials\CodeFirstApp\CodeFirstApp\obj\Debug\CodeFirstApp.csprojResolveAssemblyReference.cache
+D:\Projects\EFBasicTutorials\CodeFirstApp\CodeFirstApp\bin\Debug\CodeFirstApp.exe
+D:\Projects\EFBasicTutorials\CodeFirstApp\CodeFirstApp\bin\Debug\CodeFirstApp.pdb
+D:\Projects\EFBasicTutorials\CodeFirstApp\CodeFirstApp\bin\Debug\EntityFramework.dll
+D:\Projects\EFBasicTutorials\CodeFirstApp\CodeFirstApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\EFBasicTutorials\CodeFirstApp\CodeFirstApp\bin\Debug\EntityFramework.xml
+D:\Projects\EFBasicTutorials\CodeFirstApp\CodeFirstApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\EFBasicTutorials\CodeFirstApp\CodeFirstApp\obj\Debug\CodeFirstApp.exe
+D:\Projects\EFBasicTutorials\CodeFirstApp\CodeFirstApp\obj\Debug\CodeFirstApp.pdb
