@@ -16,6 +16,7 @@ namespace CodeFirstApp
             //More options for the database Initializer:
             //Database.SetInitializer<MyContext>(new DropCreateDatabaseAlways<MyContext>());
             //Database.SetInitializer<MyContext>(null);
+//hi
         }
         public DbSet<Employee> Employees { get; set; } 
 
